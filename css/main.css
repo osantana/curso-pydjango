@@ -1,0 +1,10 @@
+body { padding-top: 60px; padding-bottom: 40px; }
+.share { height: 40px; } 
+.hero-unit { height: 850px; }
+.twitter-share-button { float: left; margin: 5px 0; }
+.slides { width: 600px; margin:0 auto; }
+
+
+.playlist { margin: 40px 0 0; }
+.playlist li { display: block; float: left; margin: 10px; padding: 5px; border: 1px solid #ddd; background-color: #fff; }
+.playlist a.is-active { box-shadow: 0 0 10px #005580; }
