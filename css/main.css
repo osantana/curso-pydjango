@@ -1,10 +1,14 @@
-body { padding-top: 60px; padding-bottom: 40px; }
-.share { height: 40px; } 
-.hero-unit { height: 850px; }
+body { padding-bottom: 40px; padding-top: 60px; }
+.title { margin-bottom: 50px; }
+.newsletter { margin-top: 25px; } 
+.share iframe { margin:0; }
+.share { margin: 15px 0 0 20px; }
 .twitter-share-button { float: left; margin: 5px 0; }
 .slides { width: 600px; margin:0 auto; }
+.videos { width: 820px; margin:0 auto; }
 
 
-.playlist { margin: 40px 0 0; }
-.playlist li { display: block; float: left; margin: 10px; padding: 5px; border: 1px solid #ddd; background-color: #fff; }
-.playlist a.is-active { box-shadow: 0 0 10px #005580; }
+.playlist { margin: 40px auto; }
+.playlist ul { padding:0; }
+.playlist li { display: block; float: left; margin: 8px; padding: 5px; border: 1px solid #ddd; background-color: #fff; width: 140px; height: 84px; }
+.playlist li.is-active { box-shadow: 0 0 10px #005580; }
